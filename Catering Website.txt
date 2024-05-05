@@ -1,0 +1,29 @@
+Job Title: Create a website for "Catering Service" using HTML, CSS & JavaScript.
+Condition:
+	1. Work must be carried out in a safe manner and according to coding standards
+	2. Open-source resources can be used
+	3. Written code must be clean & error free
+
+Requerment of website:
+1. 4 website
+	1. Homepage Page:
+		a. Banner (Full wide)
+		b. 4 items food menu (Food Picture & Details)
+		c. Customers feedback
+		d. Gallery (Minimum 6 items)
+	2. About us Page:
+		a. Staff profile with text (3 Staff)
+		b. About company with images.
+
+	3. Contact Us Page:
+		a. Contact Form.
+		b. Contact Information (Address, Email, Phone number)
+	4. FAQ Page:
+		a. Beautiful Collapsible 5 Question & Answer using JavaScript
+2. Full container wide navigation menu with mouse hover effect
+3. COnfirmation popup window when submit the contact form
+4. CSS framework
+5. Unordered list of food items using CSS styles (Background color, hover effect, Border, Radius, without using framework help)
+6. External link with 'target' blank attribute
+7. Current Date & Time using JavaScript file
+9. Internal pages linking
